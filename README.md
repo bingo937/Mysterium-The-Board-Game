@@ -202,3 +202,6 @@ This repository serves as the official landing page for Mysterium: The Board Gam
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Mysterium: The Board Game today!**
+
+---
+**Last updated:** 2026-11-06 10:02:46 UTC
