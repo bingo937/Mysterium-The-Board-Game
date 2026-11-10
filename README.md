@@ -204,4 +204,4 @@ This repository serves as the official landing page for Mysterium: The Board Gam
 **Get the most recent version of Mysterium: The Board Game today!**
 
 ---
-**Last updated:** 2026-11-10 00:57:48 UTC
+**Last updated:** 2026-11-10 07:58:03 UTC
